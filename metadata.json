@@ -1,0 +1,6 @@
+{
+  "name": "Hisab Tracker",
+  "description": "AI-Powered Expense & Income Tracker with Smart Dual AI Assistant (OpenRouter & Gemini), Budgeting, Reports, and Auto Failover",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
